@@ -1,7 +1,4 @@
-Duong Cao
-CS174
-Lame Translate
-
+Dictionary
 
 Connect to the database. My database name is final. Change to your own database name.
     
